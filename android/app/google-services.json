@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "466521997950",
+    "firebase_url": "https://chatapptute-26fb7-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "chatapptute-26fb7",
+    "storage_bucket": "chatapptute-26fb7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:466521997950:android:4e372400075cbc35000e2f",
+        "android_client_info": {
+          "package_name": "com.arnavdham.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "466521997950-3i6jftdf8gu2t5kka2doip3nim5k99h2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTop5Gv6AwqZi7Y4LL_7Mb8cgqSBRI9hs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "466521997950-3i6jftdf8gu2t5kka2doip3nim5k99h2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "466521997950-1m31sv2fc2km8es17obuann66ml3no0u.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.arnavdham.chatapp.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>466521997950-p3mehjuarqvcvmtkd92tpo3qtalrts8t.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.466521997950-p3mehjuarqvcvmtkd92tpo3qtalrts8t</string>
+	<key>API_KEY</key>
+	<string>AIzaSyC_ewK93tVskQZobtO-RoB-7o2V995ATgo</string>
+	<key>GCM_SENDER_ID</key>
+	<string>466521997950</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.arnavdham.chatapp</string>
+	<key>PROJECT_ID</key>
+	<string>chatapptute-26fb7</string>
+	<key>STORAGE_BUCKET</key>
+	<string>chatapptute-26fb7.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:466521997950:ios:3bb9181365fedce8000e2f</string>
+	<key>DATABASE_URL</key>
+	<string>https://chatapptute-26fb7-default-rtdb.asia-southeast1.firebasedatabase.app</string>
+</dict>
+</plist>
